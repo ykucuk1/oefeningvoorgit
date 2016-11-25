@@ -26,6 +26,7 @@ public class Oefening0707 {
         student3.voegResultaat(new Tentamenresultaat("Verkeer", 9, "12-12-2016"));
         administratie.voegToe(student1);
         administratie.voegToe(student2);
+        //nog een commentaar
         administratie.voegToe(student3);
         administratie.printOverzicht();
         //weer een andere comment
