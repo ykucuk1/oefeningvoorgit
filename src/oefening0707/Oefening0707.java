@@ -27,7 +27,7 @@ public class Oefening0707 {
         administratie.voegToe(student2);
         administratie.voegToe(student3);
         administratie.printOverzicht();
-        //Een commentaar om te kijken of het in git local komt
+        
     }
     
 }
