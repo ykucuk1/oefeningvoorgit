@@ -29,6 +29,8 @@ public class Oefening0707 {
         //nog een commentaar
         administratie.voegToe(student3);
         administratie.printOverzicht();
+        //nog een 
+        //en een andere
         //weer een andere comment
         
     }
