@@ -14,6 +14,7 @@ package oefening0707;
 public class Oefening0707 {
     public static void main(String[] args) {
         Adminsitratie administratie = new Adminsitratie();
+        //Comment voor in de git
         Student student1 = new Student("Kees Mees", "01-12-1955");
         Student student2 = new Student("Hans Kazan", "05-10-1999");
         Student student3 = new Student("Karel Doorman", "05-11-1889");
