@@ -27,7 +27,6 @@ public class Oefening0707 {
         administratie.voegToe(student1);
         administratie.voegToe(student2);
         administratie.voegToe(student3);
-        //Nog een comment
         administratie.printOverzicht();
         
     }
